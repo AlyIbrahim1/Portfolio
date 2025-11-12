@@ -265,10 +265,10 @@ body {
     transform-origin: left;
 } 
 
-.skills_container .skill:nth-of-type(2) .bar { width: 60%; }
-.skills_container .skill:nth-of-type(3) .bar { width: 40%; }
-.skills_container .skill:nth-of-type(4) .bar { width: 50%; }
-.skills_container .skill:nth-of-type(5) .bar { width: 30%; }
+.skill:nth-of-type(2) .bar { width: 60%; }
+.skill:nth-of-type(3) .bar { width: 40%; }
+.skill:nth-of-type(4) .bar { width: 50%; }
+.skill:nth-of-type(5) .bar { width: 30%; }
 
 .contacts_container {
     display: flex;
